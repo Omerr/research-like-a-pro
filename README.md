@@ -25,3 +25,6 @@ Many of these resources are not about research per se, but reading them with a r
 
 * [Deep Work](https://amzn.to/3SMJLrc) - by Cal Newport.
 * [Digital Minimalism](https://amzn.to/3X1vf1m) - by Cal Newport.
+
+## Critical Thinking
+* [The Upside of Irrationality](https://amzn.to/4dhYymc) - by Dan Ariely.
